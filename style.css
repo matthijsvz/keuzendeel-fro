@@ -1,0 +1,14 @@
+
+                          
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.headerplaat {
+    background-image: url(images/headerplaat1.jpg);
+    height: 600px;
+    background-position: 50% 65%;
+    margin-left: -15px;
+    margin-right: -15px;
+}
